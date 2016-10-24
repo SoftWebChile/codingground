@@ -1,0 +1,1 @@
+{"id":"fbc","ext":"bas","version":"FreeBasic v1.05.0","compile":"fbc -x main *.bas","execute":"main","preview":"","command":"","file":"/home/cg/src/samples/main.bas","url":"compile_freebasic_online.php","mode":"vbscript"}
